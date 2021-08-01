@@ -34,4 +34,5 @@ You can drag and drop the content of the build folder into the S3 bucket (NoSQL 
 **Frontend:** React, TailwindCSS, AxiosJS
 
 **Backend:** AWS Lambda, API Gateway(AWS), S3(AWS), DynamoDB(AWS)
+
 You can manage the backend through your AWS dashboard easily since all these services are Amazon web services.
