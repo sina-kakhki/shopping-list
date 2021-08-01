@@ -18,7 +18,7 @@ npm run build
 ```
 Runs Craco build - [What's Craco?](https://www.npmjs.com/package/@craco/craco)
 
-You can drag and drop the content of the build folder into the S3 bucket (NoSQL) on AWS.
+You can drag and drop the content of the build folder into the S3 bucket (NoSQL database) on AWS.
 
 ## User Stories
 
