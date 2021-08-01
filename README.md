@@ -1,6 +1,6 @@
 # Shopping Lists
 
-This is a simple single page CRUD (Create, Reade, Update, Delete) app for shopping list
+This is a simple single page CRUD (Create, Reade, Update, Delete) app for shopping list.
 
 ### To get started
 
