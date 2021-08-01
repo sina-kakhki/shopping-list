@@ -16,6 +16,7 @@ You can find the server running on [http://localhost:3000](http://localhost:3000
 ```bash
 npm run build
 ```
+Runs Craco build
 
 You can drag and drop the content of the build folder into the S3 bucket (NoSQL) on AWS.
 
